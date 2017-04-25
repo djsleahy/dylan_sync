@@ -1,0 +1,14 @@
+UPDATE.BAT 16/12/2016 12:29:44.37
+---------------------------------------
+"C:\Users\Dylan Leahy\Desktop\Projects\dylan_sync\program\" Updated Files Log
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\dylan_sync\program\\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\dylan_sync\program\\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\dylan_sync\program\\..
+Successfully processed 1 files; Failed processing 0 files
+0 File(s) copied
+
+***************************************
+***************************************
+
