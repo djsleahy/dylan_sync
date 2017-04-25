@@ -1,0 +1,24 @@
+C:\DB Permissions Set
+processed file: C:\DB
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\DB
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\DB
+Successfully processed 1 files; Failed processing 0 files
+C:\DB\DATA\ACSTRANS Updated Files log
+0 File(s) copied
+C:\DB\DATA\ACSTRANS\LIB Updated Files Log
+0 File(s) copied
+C:\DB\DATA\ACSTRANS\LIB2 Updated Files Log
+0 File(s) copied
+C:\DB\PROGRAMS\PRUNTIME Updated Files Log
+0 File(s) copied
+C:\com_exe Permissions Set
+processed file: C:\com_exe
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\com_exe
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\com_exe
+Successfully processed 1 files; Failed processing 0 files
+C:\com_exe Updated Files Log
+0 File(s) copied
