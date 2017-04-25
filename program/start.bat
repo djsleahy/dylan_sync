@@ -1,10 +1,8 @@
 @echo off
 setlocal
 
-
-IF NOT EXIST V:\ GOTO :DISCONNECTED
-
 call "%~dp0.\config.bat"
+IF NOT EXIST %networkDrive% GOTO :DISCONNECTED
 SET startlog="%dr%logs\start_log.txt"
 
 echo SETTING LOCAL PERMISSIONS
@@ -29,5 +27,5 @@ call "%dr%update.bat"
 exit
 
 :DISCONNECTED
-echo "V:\ disconnected %DATE%">>%dr%logs\disconnected.txt
+echo "%networkDrive% disconnected %DATE%">>%dr%logs\disconnected.txt
 exit

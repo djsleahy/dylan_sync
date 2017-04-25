@@ -7,8 +7,10 @@
 ::Time format is HH:MM
 @echo off
 SET scheduledTime=20:00
-SET excludeFile=V:\updates\dylan_sync\exclude.txt
-SET uptodateUpdate=V:\updates\dylan_sync\program\update.bat
+SET networkDrive=V:\
+SET syncUpdateLocation=%networkDrive%updates\dylan_sync
+SET excludeFile=%syncUpdateLocation%\exclude.txt
+SET uptodateUpdate=%syncUpdateLocation%\program\update.bat
 
 ::Do not edit anything below this line
 SET dr=%~dp0

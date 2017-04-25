@@ -11,3 +11,94 @@ Successfully processed 1 files; Failed processing 0 files
 ***************************************
 ***************************************
 
+START.BAT 25/04/2017 11:43:35.13
+---------------------------------------
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+0 File(s) copied
+
+***************************************
+***************************************
+
+START.BAT 25/04/2017 11:45:22.96
+---------------------------------------
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+0 File(s) copied
+
+***************************************
+***************************************
+
+START.BAT 25/04/2017 11:45:25.72
+---------------------------------------
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+0 File(s) copied
+
+***************************************
+***************************************
+
+START.BAT 25/04/2017 11:45:29.71
+---------------------------------------
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+0 File(s) copied
+
+***************************************
+***************************************
+
+START.BAT 25/04/2017 11:45:43.82
+---------------------------------------
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+0 File(s) copied
+
+***************************************
+***************************************
+
+START.BAT 25/04/2017 12:08:29.91
+---------------------------------------
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+0 File(s) copied
+
+***************************************
+***************************************
+
+START.BAT 25/04/2017 12:45:22.93
+---------------------------------------
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+processed file: C:\Users\Dylan Leahy\Desktop\Projects\00GITHUB_REPOSITORIES\dylan_sync\program\..
+Successfully processed 1 files; Failed processing 0 files
+0 File(s) copied
+
+***************************************
+***************************************
+

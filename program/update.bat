@@ -10,7 +10,7 @@ echo --------------------------------------->>%updateslog%
 echo "%dr%" Updated Files Log>>%updateslog%
 echo %tab%Recursively Setting Permissions
 %perm% "%dr%\..">>%updateslog%
-echo f | xcopy /d /f /y /s V:\updates\dylan_sync "%dr%.." /EXCLUDE:%excludeFile%>>%updateslog%
+echo f | xcopy /d /f /y /s %syncUpdateLocation% "%dr%.." /EXCLUDE:%excludeFile%>>%updateslog%
 IF NOT ERRORLEVEL 0 GOTO XCOPYERRORS
 echo %tab%%tab%Updated dylan_sync
 goto :END

@@ -78,7 +78,6 @@ echo C:\DB\PROGRAMS\PRUNTIME Updated Files Log>>%runlog%
 echo f | xcopy /d /f /y /s V:\updates\pruntime C:\DB\PROGRAMS\PRUNTIME>>%runlog%
 IF NOT ERRORLEVEL 0 GOTO XCOPYERRORS
 echo %tab%%tab%%tab%%tab%Updated C:\DB\PROGRAMS\PRUNTIME
-pause
 
 :COMEXE
 IF NOT EXIST C:\com_exe (
@@ -131,4 +130,4 @@ IF ERRORLEVEL 0 (
 :END
 call "%dr%getDateAndTime.bat"
 set end=END^,%computername%^,%dateStamp%^,%timeStamp%^,%xcopyerror%
-call "%dr%logger.bat" "V:\dylan_sync\%fileName%_log.csv" "%start%" "%end%"
+call "%dr%logger.bat" "%networkDrive%dylan_sync\%fileName%_log.csv" "%start%" "%end%"
