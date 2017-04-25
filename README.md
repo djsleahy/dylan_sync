@@ -3,6 +3,8 @@ A network directory synchronisation program
 
 dylan_sync operates solely off Windows batch scripts as per request.
 
+![Alt text](sync.PNG?raw=true "Executing dylan_sync")Executing dylan_sync
+
 # Setup
 Store the most recent version of dylan_sync in a network location and edit syncUpdateLocation config.bat to match.
 
